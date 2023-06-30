@@ -2,17 +2,7 @@ import java.util.Scanner;
 
 public class Gugudan {
     public static void main(String[] args) {
-        // 6단
-//        int i = 1;
-//        while(i < 10) {
-//            System.out.println(6 * i);
-//            i = i + 1;
-//        }
 
-        // 7단
-//        for(int j = 1; j < 10; j++) {
-//            System.out.println(7 * j);
-//        }
         // 8단, 9단
         System.out.println("출력하고 싶은 단을 입력하세요: ");
         Scanner s2 = new Scanner(System.in);
@@ -76,5 +66,16 @@ public class Gugudan {
 //        System.out.println(number * 7);
 //        System.out.println(number * 8);
 //        System.out.println(number * 9);
+        // 6단
+//        int i = 1;
+//        while(i < 10) {
+//            System.out.println(6 * i);
+//            i = i + 1;
+//        }
+
+        // 7단
+//        for(int j = 1; j < 10; j++) {
+//            System.out.println(7 * j);
+//        }
     }
 }
